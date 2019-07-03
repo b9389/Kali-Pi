@@ -17,7 +17,7 @@ export KPTIMEOUT=2          ## Minutes before screensaver kicks in, comment out 
 
 
 export FRAMEBUFFER=/dev/fb1
-export MENUDIR="/home/pi/Kali-Pi/Menus/"
+export MENUDIR="/home/pi/Pi-screen/Menus/"
 export TFT=1                ## Set to 1 for TFT output, 0 for PC screen
 while true; do
 ## Loop to make it a bit more difficult to bypass PIN
